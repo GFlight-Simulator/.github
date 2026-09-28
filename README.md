@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GFlight-Simulator/.github/main/profile/logo.png" width="140" alt="GFlight Simulator" />
+  <img src="https://raw.githubusercontent.com/GFlight-Simulator/.github/main/GFlight-Logo.png" width="140" alt="GFlight Simulator" />
 </p>
 
 <h3 align="center">GFlight Simulator</h3>
